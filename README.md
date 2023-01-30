@@ -40,12 +40,16 @@ Norm_of_matrix = "{:.2f}".format(ans)
 print(Norm_of_matrix)
 
 ## output
+```
 
-!['output'](./Screenshot%20from%202023-01-30%2014-46-46.png)
+![output](./Screenshot%20from%202023-01-30%2015-02-49.png)
+
 
 !['output'](./Screenshot%20from%202023-01-30%2014-46-56.png)
 
+
 !['output'](./Screenshot%20from%202023-01-30%2014-47-08.png)
+```
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
